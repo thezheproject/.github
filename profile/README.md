@@ -9,18 +9,18 @@
 
 ## 使用的编程语言、组件及工具
 ### 前端语言
-![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff) 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-00C300?style=for-the-badge&logo=CSS3&logoColor=fff)
 ### 数据库
 ![](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=fff)
 ### 后端语言（软件语言）及组件
+![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-PyQt-2CDE85?style=for-the-badge&logo=Qt&logoColor=fff)
 ### 平台
 ![](https://img.shields.io/badge/-Github%20Pages-000000?style=for-the-badge&logo=Github&logoColor=fff)
+![](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=fff) 
 <!-- ![](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=fff) -->
-![](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=FFF) 
 
 ## 加入我们
 你可以发信至 <thezheproject@skiff.com>。
